@@ -3,7 +3,7 @@
 	<head>
 		<title> TREI CULORI </title>
 	</head>
-	<body style="background-color:#008000">
+	<body style="background-color:#e7c0c0">
 		<h1>
 		<div style="text-align:center"> "Trei culori" </div>
 		</h1>
